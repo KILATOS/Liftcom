@@ -1,4 +1,4 @@
-package ru.liftcom.website.service;
+package ru.liftcom.services;
 
 import lombok.SneakyThrows;
 import org.springframework.beans.factory.annotation.Autowired;

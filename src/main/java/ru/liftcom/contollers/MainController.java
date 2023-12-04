@@ -1,4 +1,4 @@
-package ru.liftcom.website.controller;
+package ru.liftcom.contollers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import ru.liftcom.database.entity.CustomOrder;
-import ru.liftcom.website.service.MainService;
+import ru.liftcom.services.MainService;
 
 @Controller
 public class MainController {

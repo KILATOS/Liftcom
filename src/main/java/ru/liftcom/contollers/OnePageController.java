@@ -1,4 +1,4 @@
-package ru.liftcom.website.controller;
+package ru.liftcom.contollers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
